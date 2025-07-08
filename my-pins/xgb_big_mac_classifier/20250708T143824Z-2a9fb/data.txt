@@ -1,0 +1,17 @@
+file: xgb_big_mac_classifier.rds
+file_size: 15797
+pin_hash: 2a9fbbfa52d27a4e
+type: rds
+title: 'xgb_big_mac_classifier: a pinned list'
+description: A xgboost classification modeling workflow
+tags: ~
+urls: ~
+created: 20250708T143824Z
+api_version: 1
+user:
+  required_pkgs:
+  - parsnip
+  - recipes
+  - workflows
+  - xgboost
+  renv_lock: ~
