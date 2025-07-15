@@ -21,7 +21,7 @@ And the app tells you:
 
 Is the Big Mac overvalued in this country?
 
-🔗 👉 Try the app live
+🔗 👉 Try the app live https://huggingface.co/spaces/gciardiello02/Bigmac
 
 📊 Model Performance (Test Set)
 ✅ Accuracy: 98.6%
